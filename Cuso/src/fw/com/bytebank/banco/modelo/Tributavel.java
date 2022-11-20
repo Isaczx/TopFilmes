@@ -1,0 +1,6 @@
+package fw.com.bytebank.banco.modelo;
+
+public interface Tributavel {
+
+	double getValorImposto();
+}
